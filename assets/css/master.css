@@ -16,3 +16,11 @@ header{
     background-size: cover;
     background-position: center center;
 }
+
+#top-well{
+    margin-top: 10%;
+}
+
+.btn-group{
+    margin: 10px;
+}
